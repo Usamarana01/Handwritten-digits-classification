@@ -12,10 +12,10 @@ Tools: TensorFlow, Keras, Matplotlib
 ### Getting Started
 To get started with the project, follow these steps:
 
-## Clone the repository: git clone <repository_url>
+## Clone the repository: git clone <https://github.com/Usamarana01/Handwritten-digits-classification/edit/main>
 Install dependencies: pip install -r requirements.txt
 Run the notebook: jupyter notebook
  ## Dataset:
 The project uses the MNIST dataset, which is a collection of 28x28 pixel grayscale images of handwritten digits.
 ## Results
-After training the model, it achieved an accuracy of approximately 92% on the test dataset.
+After training the model, it achieved an accuracy of approximately  92% on the test dataset.
