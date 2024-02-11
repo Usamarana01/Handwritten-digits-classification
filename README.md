@@ -12,7 +12,7 @@ Tools: TensorFlow, Keras, Matplotlib
 ### Getting Started
 To get started with the project, follow these steps:
 
-## Clone the repository: git clone <https://github.com/Usamarana01/Handwritten-digits-classification/edit/main>
+## Clone the repository: git clone <https://github.com/Usamarana01/Handwritten-digits-classification/tree/main>
 Install dependencies: pip install -r requirements.txt
 Run the notebook: jupyter notebook
  ## Dataset:
